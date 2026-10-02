@@ -42,6 +42,9 @@
 
 Python 3.8+. Для необязательных ячеек сверки и графиков: `scikit-learn`, `matplotlib`.
 
+## Ссылка на Яндекс Форму для сдачи работ
+https://forms.yandex.ru/u/6ab73d146d2d73432fe4fb1c
+
 ## Курс
 
 Следующие занятия: [kNN](https://github.com/ExPl0i/AI-9-kNN) · [Логистическая регрессия](https://github.com/ExPl0i/AI-9-Logistic-regression) · [Деревья решений](https://github.com/ExPl0i/AI-9-Decision-trees) · [Метрики качества](https://github.com/ExPl0i/AI-9-Metrics)
